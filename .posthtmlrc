@@ -85,7 +85,6 @@
             "value": {
               "width": "auto",
               "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/43MESXM2CRAWLBZ5T6VD5ZSG3E.jpg",
-              "caption": "",
               "credit": "Princeton Huang"
             }
           },
@@ -154,7 +153,6 @@
             "value": {
               "width": "auto",
               "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/RVCBM7E5DBES3OXAUFHKJTQM7Q.jpg",
-              "caption": "",
               "credit": "Rommel Nunez"
             }
           },
@@ -271,7 +269,6 @@
             "value": {
               "width": "auto",
               "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/OWZOJP6QF5DBNJY7QOM3JH3SGY.jpg",
-              "caption": "",
               "credit": "Rommel Nunez"
             }
           },
@@ -328,7 +325,7 @@
         "date": "Feb 25, 2021",
         "byline": "By Ellida Parker and Cheryn Hong  <br> Edited by Cole Cahill",
         "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/4PSRQNCXTNGXRCUFJLOSFLUAHQ.jpg",
-        "cover_caption": "Rommel Nunez",
+        "cover_caption": "Photography by Rommel Nunez",
         "footer": "Template developed by newsroom developer Patrick Puma. He can be contacted at <a href=\"mailto:patrick.puma@columbiaspectator.com\">patrick.puma@columbiaspectator.com</a>.",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
