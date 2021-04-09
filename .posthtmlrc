@@ -254,7 +254,7 @@
           },
           {
             "type": "text",
-            "value": "“[Taylonn Murphy Jr.] opened so many doors for me,” Raymond Garcia says. “When it came to job placement programs, to anything that would make my life better, I didn’t know where to start. I didn’t know all the types of licenses or certifications I could take advantage of. … [He] gave me hope.”"
+            "value": "“[Taylonn Murphy Sr.] opened so many doors for me,” Raymond Garcia says. “When it came to job placement programs, to anything that would make my life better, I didn’t know where to start. I didn’t know all the types of licenses or certifications I could take advantage of. … [He] gave me hope.”"
           },
           {
             "type": "text",
@@ -323,11 +323,11 @@
         ],
         "headline": "One Relationship at a Time: Restorative Justice Initiatives in West Harlem are Rewriting Legacies of Violence and Mass Incarceration",
         "date": "Feb 25, 2021",
-        "byline": "By Ellida Parker and Cheryn Hong  <br> Edited by Cole Cahill",
+        "byline": "By Ellida Parker <br> Contributing Reporting by Cheryn Hong  <br> Edited by Cole Cahill",
         "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/4PSRQNCXTNGXRCUFJLOSFLUAHQ.jpg",
         "cover_caption": "Photography by Rommel Nunez",
         "footer": "Template developed by newsroom developer Patrick Puma. He can be contacted at <a href=\"mailto:patrick.puma@columbiaspectator.com\">patrick.puma@columbiaspectator.com</a>.",
-        "USE_NEWS_NAV": true,
+        "USE_NEWS_NAV": false,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": true,
         "IS_EMBED": false,
